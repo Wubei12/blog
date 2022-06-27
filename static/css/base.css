@@ -18,6 +18,11 @@ header h1 a {
     margin-right: auto;
 }
 
+.nav-right {
+    display: flex;
+    padding-top: 2rem;
+}
+
 .post-entry {
     margin-bottom: 2rem;
 }
